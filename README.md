@@ -4,15 +4,12 @@ Computer Engineering @ Columbia University
 
 ## World models & spatial technology
 
-I've spent the last three years getting reality into computers by hand —
-photogrammetry of a centuries-old Kyoto temple (Taizō-in), AR interfaces for
-lunar vehicles, Gaussian-splat capture experiments. The question I keep coming
-back to: **when do learned world models replace hand-built reconstruction — and
-what does reconstruction still know that generation doesn't** (metric accuracy,
-semantics you can trust)?
+Since high school, I’ve loved working in 3D computer graphics. An empty scene could become anything I imagined—a place, an object, an entirely new world. That freedom to build something from nothing is what got me hooked. I love how art and computing come together to create something that makes people stop and look.
 
-That's the thread connecting everything below: capture → reconstruction →
-learned simulation.
+Now, that fascination is drawing me toward world models. I want to help create virtual worlds that don’t just look convincing, but respond, evolve, and feel alive.
+
+I’m happiest when I’m making things: a useful tool, an interactive experience, or an experiment I can’t stop thinking about. I want to keep turning those ideas into things people can actually experience.
+
 
 ## Now
 
