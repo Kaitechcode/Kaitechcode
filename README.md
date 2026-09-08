@@ -1,8 +1,6 @@
 # Kai Karube
 
-Computer Engineering @ Columbia University ('29) · Yanai Tadashi Foundation Scholar
-
-Kobe → Hamburg → London → Milan → New York
+Computer Engineering @ Columbia University
 
 ## World models & spatial technology
 
