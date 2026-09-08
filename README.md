@@ -23,7 +23,3 @@ I’m happiest when I’m making things: a useful tool, an interactive experienc
 - 🧱 **Foundations, built in public** — daily DSA
   ([neetcode-submissions](https://github.com/Kaitechcode/neetcode-submissions)),
   C++ systems, Karpathy's *Zero to Hero* (micrograd → GPT)
-
-## Find me
-
-[LinkedIn](https://www.linkedin.com/in/kaikarube)
